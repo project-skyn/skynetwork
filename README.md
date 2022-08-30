@@ -4,10 +4,11 @@ Sky Network is a project about creating a unique utility that has never existed 
 
 Website: https://project-sky.network
 
-Telegram
-🌎: @skynetwork_bsc
-🇨🇳: @skynetwork_chinese
-🇮🇩: @skynetwork_id
+Telegram<br>
+🌎 : @skynetwork_bsc<br>
+🇨🇳 : @skynetwork_chinese<br>
+🇮🇩 : @skynetwork_id<br>
 
-Contract Address :
-0x37ea4c89344b5a6687161f7af814f00a13496517
+Contract Address:
+<br>
+(BEP-20) 0x37ea4c89344b5a6687161f7af814f00a13496517
