@@ -14,3 +14,12 @@ Telegram<br>
 Contract Address:
 <br>
 (BEP-20) 0x37ea4c89344b5a6687161f7af814f00a13496517
+
+
+<h3>TESTNET</h3>
+Name: SKY NETWORK<br/>
+RPC URL: http://test.project-sky.network:8545<br>
+CHAIN ID: 488<br>
+SYMBOL: SKYN<br>
+BLOCK EXPLORER: http://test.project-sky.network<br>
+FAUCET: http://test.project-sky.network:8080<br>
